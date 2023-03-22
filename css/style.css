@@ -1,0 +1,47 @@
+.meuNome{
+    color: green;
+}
+
+.descricao{
+    color: firebrick;
+}
+
+.resido{
+    color: aliceblue;
+}
+
+.javascript{
+    color: salmon;
+}
+
+.sql{
+    color: forestgreen;
+}
+
+.react{
+    color: teal;
+}
+
+.bootstrap{
+    color: lemonchiffon;
+}
+
+.metoAgil{
+    color: coral;
+}
+
+body{
+    text-align: center;
+    color: royalblue;
+
+}
+
+h1{
+    color: yellowgreen;
+
+}
+
+h2{
+    color: whitesmoke;
+
+}
